@@ -1,0 +1,6 @@
+[
+  { "key": 10, "value": "Prikaži po 10 automobila" },
+  { "key": 20, "value": "Prikaži po 20 automobila" },
+  { "key": 50, "value": "Prikaži po 50 automobila" },
+  { "key": 100, "value": "Prikaži po 100 automobila" }
+]

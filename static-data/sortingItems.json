@@ -1,0 +1,5 @@
+[
+  { "key": "dateAdded", "value": "Po datumu dodavanja" },
+  { "key": "priceAsc", "value": "Od jeftinijih ka skupljim" },
+  { "key": "priceDesc", "value": "Od skupljih ka jeftinijim" }
+]

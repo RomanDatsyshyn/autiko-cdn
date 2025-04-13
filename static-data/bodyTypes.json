@@ -1,0 +1,17 @@
+[
+  { "key": "1", "value": "Kupe" },
+  { "key": "2", "value": "Crossover" },
+  { "key": "3", "value": "SUV / Terensko vozilo" },
+  { "key": "4", "value": "Pickup" },
+  { "key": "5", "value": "Limuzina" },
+  { "key": "6", "value": "Karavan" },
+  { "key": "7", "value": "Kabriolet" },
+  { "key": "8", "value": "Hečbek" },
+  { "key": "9", "value": "Liftbek" },
+  { "key": "10", "value": "Roadster" },
+  { "key": "11", "value": "Limuzina" },
+  { "key": "12", "value": "Targa" },
+  { "key": "13", "value": "Fastback" },
+  { "key": "14", "value": "Shooting brake / Karavan-kupe" },
+  { "key": "15", "value": "Minivan" }
+]
