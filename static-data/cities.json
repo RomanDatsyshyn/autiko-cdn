@@ -1,0 +1,23 @@
+ [
+  { "key": "1", "value": "Andrijevica" },
+  { "key": "2", "value": "Bar" },
+  { "key": "3", "value": "Berane" },
+  { "key": "4", "value": "Bijelo Polje" },
+  { "key": "5", "value": "Budva" },
+  { "key": "6", "value": "Cetinje" },
+  { "key": "7", "value": "Danilovgrad" },
+  { "key": "8", "value": "Gusinje" },
+  { "key": "9", "value": "Herceg Novi" },
+  { "key": "10", "value": "Kolašin" },
+  { "key": "11", "value": "Kotor" },
+  { "key": "12", "value": "Mojkovac" },
+  { "key": "13", "value": "Podgorica" },
+  { "key": "14", "value": "Plav" },
+  { "key": "15", "value": "Plužine" },
+  { "key": "16", "value": "Rožaje" },
+  { "key": "17", "value": "Šavnik" },
+  { "key": "18", "value": "Tivat" },
+  { "key": "19", "value": "Ulcinj" },
+  { "key": "20", "value": "Žabljak" },
+  { "key": "21", "value": "Nikšić" }
+]
