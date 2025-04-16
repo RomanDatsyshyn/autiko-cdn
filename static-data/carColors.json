@@ -1,14 +1,11 @@
 [
-  { "key": "1.0", "value": "1.0 л" },
-  { "key": "1.2", "value": "1.2 л" },
-  { "key": "1.4", "value": "1.4 л" },
-  { "key": "1.6", "value": "1.6 л" },
-  { "key": "1.8", "value": "1.8 л" },
-  { "key": "2.0", "value": "2.0 л" },
-  { "key": "2.2", "value": "2.2 л" },
-  { "key": "2.5", "value": "2.5 л" },
-  { "key": "3.0", "value": "3.0 л" },
-  { "key": "3.5", "value": "3.5 л" },
-  { "key": "4.0", "value": "4.0 л" },
-  { "key": "5.0", "value": "5.0 л" }
+  { "key": "white", "label": "Білий", "hex": "#FFFFFF" },
+  { "key": "black", "label": "Чорний", "hex": "#000000" },
+  { "key": "gray", "label": "Сірий", "hex": "#808080" },
+  { "key": "silver", "label": "Сріблястий", "hex": "#C0C0C0" },
+  { "key": "blue", "label": "Синій", "hex": "#1E90FF" },
+  { "key": "red", "label": "Червоний", "hex": "#FF4136" },
+  { "key": "green", "label": "Зелений", "hex": "#2ECC40" },
+  { "key": "yellow", "label": "Жовтий", "hex": "#FFDC00" },
+  { "key": "other", "label": "Інший", "hex": "#E0E0E0" }
 ]
