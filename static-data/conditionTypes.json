@@ -1,9 +1,8 @@
 [
-  { "key": "1", "value": "Novi automobil (0 km)" },
-  { "key": "2", "value": "U savršenom stanju (bez ulaganja)" },
-  { "key": "3", "value": "Dobro stanje (manje kozmetičke mane)" },
-  { "key": "4", "value": "Zadovoljavajuće stanje (manji popravci potrebni)" },
-  { "key": "5", "value": "Potreban veći servis / generalna popravka" },
-  { "key": "6", "value": "Nakon udesa (sa dokumentima)" },
-  { "key": "7", "value": "Vozilo za rezervne dijelove" }
+  { "key": "1", "value": "Odlično stanje (bez oštećenja)" },
+  { "key": "2", "value": "Dobro stanje (manja kozmetička oštećenja)" },
+  { "key": "3", "value": "Zadovoljavajuće stanje (potreban popravak)" },
+  { "key": "4", "value": "Nakon saobraćajne nesreće, popravljeno" },
+  { "key": "5", "value": "Nakon saobraćajne nesreće, potreban popravak" },
+  { "key": "6", "value": "Za dijelove / nije u voznom stanju" }
 ]
