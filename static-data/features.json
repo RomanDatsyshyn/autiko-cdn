@@ -1,424 +1,107 @@
 [
   {
-    "title": "Безпека",
-    "key": "безпека",
+    "title": "Bezbednost",
+    "key": "bezbednost",
     "features": [
-      {
-        "key": "безпека_0",
-        "label": "GPS система відстеження"
-      },
-      {
-        "key": "безпека_1",
-        "label": "Автоматичний контроль стабільності"
-      },
-      {
-        "key": "безпека_2",
-        "label": "Адаптивні передні фари"
-      },
-      {
-        "key": "безпека_3",
-        "label": "Антиблокувальна система (ABS)"
-      },
-      {
-        "key": "безпека_4",
-        "label": "Задні подушки безпеки"
-      },
-      {
-        "key": "безпека_5",
-        "label": "Передні подушки безпеки"
-      },
-      {
-        "key": "безпека_6",
-        "label": "Бокові подушки безпеки"
-      },
-      {
-        "key": "безпека_7",
-        "label": "Електронний розподіл гальмівних зусиль"
-      },
-      {
-        "key": "безпека_8",
-        "label": "Електронна програма стабілізації (ESP)"
-      },
-      {
-        "key": "безпека_9",
-        "label": "Контроль тиску в шинах"
-      },
-      {
-        "key": "безпека_10",
-        "label": "Парктронік"
-      },
-      {
-        "key": "безпека_11",
-        "label": "Система ISOFIX"
-      },
-      {
-        "key": "безпека_12",
-        "label": "Система динамічної стійкості"
-      },
-      {
-        "key": "безпека_13",
-        "label": "Система захисту від пробуксовки"
-      },
-      {
-        "key": "безпека_14",
-        "label": "Система просушування гальмівних колодок"
-      },
-      {
-        "key": "безпека_15",
-        "label": "Система контролю дистанції"
-      },
-      {
-        "key": "безпека_16",
-        "label": "Система допомоги при спуску"
-      },
-      {
-        "key": "безпека_17",
-        "label": "Система допомоги при гальмуванні"
-      }
+      { "key": "airbag_front", "label": "Prednji vazdušni jastuci" },
+      { "key": "airbag_side", "label": "Bočni vazdušni jastuci" },
+      { "key": "airbag_rear", "label": "Zadnji vazdušni jastuci" },
+      { "key": "isofix", "label": "ISOFIX sistem za dečija sedišta" },
+      { "key": "abs", "label": "ABS (antiblokirajući sistem)" },
+      { "key": "esp", "label": "ESP (elektronska kontrola stabilnosti)" },
+      { "key": "traction_control", "label": "Kontrola proklizavanja (TCS)" },
+      { "key": "ebd", "label": "Elektronska raspodela sile kočenja (EBD)" },
+      { "key": "brake_assist", "label": "Pomoć pri kočenju" },
+      { "key": "pressure_monitoring", "label": "Kontrola pritiska u gumama" },
+      { "key": "adaptive_headlights", "label": "Adaptivna prednja svetla" },
+      { "key": "parking_sensors_front", "label": "Prednji parking senzori" },
+      { "key": "parking_sensors_rear", "label": "Zadnji parking senzori" },
+      { "key": "camera_front", "label": "Prednja kamera" },
+      { "key": "camera_rear", "label": "Zadnja kamera" },
+      { "key": "camera_360", "label": "360° kamera" },
+      { "key": "hill_descent", "label": "Pomoć pri spuštanju" },
+      { "key": "distance_control", "label": "Kontrola distance" },
+      { "key": "dynamic_stability", "label": "Sistem dinamičke stabilnosti" },
+      { "key": "dry_brake", "label": "Sistem za sušenje kočionih pločica" },
+      { "key": "gps_tracking", "label": "GPS sistem za praćenje" }
     ]
   },
   {
-    "title": "Комфорт",
-    "key": "комфорт",
+    "title": "Klima i grejanje",
+    "key": "klima",
     "features": [
-      {
-        "key": "комфорт_0",
-        "label": "Функція Auto Start-Stop"
-      },
-      {
-        "key": "комфорт_1",
-        "label": "Bluetooth / гучний зв'язок"
-      },
-      {
-        "key": "комфорт_2",
-        "label": "DVD, TV"
-      },
-      {
-        "key": "комфорт_3",
-        "label": "Steptronic / Tiptronic"
-      },
-      {
-        "key": "комфорт_4",
-        "label": "USB, audio\\video, IN\\AUX виходи"
-      },
-      {
-        "key": "комфорт_5",
-        "label": "Адаптивна пневмопідвіска"
-      },
-      {
-        "key": "комфорт_6",
-        "label": "Безключовий запуск"
-      },
-      {
-        "key": "комфорт_7",
-        "label": "Блокування диференціала"
-      },
-      {
-        "key": "комфорт_8",
-        "label": "Бортовий комп’ютер"
-      },
-      {
-        "key": "комфорт_9",
-        "label": "Знижені / підвищені передачі"
-      },
-      {
-        "key": "комфорт_10",
-        "label": "Датчик світла"
-      },
-      {
-        "key": "комфорт_11",
-        "label": "Електродзеркала"
-      },
-      {
-        "key": "комфорт_12",
-        "label": "Електросклопідйомники"
-      },
-      {
-        "key": "комфорт_13",
-        "label": "Електронне регулювання підвіски"
-      },
-      {
-        "key": "комфорт_14",
-        "label": "Електропривід сидінь"
-      },
-      {
-        "key": "комфорт_15",
-        "label": "Електропідсилювач керма"
-      },
-      {
-        "key": "комфорт_16",
-        "label": "Кондиціонер"
-      },
-      {
-        "key": "комфорт_17",
-        "label": "Клімат-контроль"
-      },
-      {
-        "key": "комфорт_18",
-        "label": "Мультифункціональне кермо"
-      },
-      {
-        "key": "комфорт_19",
-        "label": "Навігація"
-      },
-      {
-        "key": "комфорт_20",
-        "label": "Підігрів керма"
-      },
-      {
-        "key": "комфорт_21",
-        "label": "Автономний обігрівач (Webasto)"
-      },
-      {
-        "key": "комфорт_22",
-        "label": "Підігрів лобового скла"
-      },
-      {
-        "key": "комфорт_23",
-        "label": "Підігрів сидінь"
-      },
-      {
-        "key": "комфорт_24",
-        "label": "Регулювання керма"
-      },
-      {
-        "key": "комфорт_25",
-        "label": "Датчик дощу"
-      },
-      {
-        "key": "комфорт_26",
-        "label": "Гідропідсилювач керма"
-      },
-      {
-        "key": "комфорт_27",
-        "label": "Омивач фар"
-      },
-      {
-        "key": "комфорт_28",
-        "label": "Круїз-контроль"
-      },
-      {
-        "key": "комфорт_29",
-        "label": "Аудіосистема / магнітола"
-      },
-      {
-        "key": "комфорт_30",
-        "label": "Тепловий насос"
-      },
-      {
-        "key": "комфорт_31",
-        "label": "Охолоджувана бардачка"
-      }
+      { "key": "climate_control", "label": "Klima-uređaj (klima kontrola)" },
+      { "key": "air_conditioner", "label": "Klima" },
+      { "key": "heated_seats", "label": "Grejana sedišta" },
+      { "key": "heated_steering_wheel", "label": "Grejani volan" },
+      { "key": "heated_windshield", "label": "Grejanje vetrobranskog stakla" },
+      { "key": "webasto", "label": "Nezavisno grejanje (Webasto)" },
+      { "key": "heat_pump", "label": "Toplotna pumpa" }
     ]
   },
   {
-    "title": "Інше",
-    "key": "інше",
+    "title": "Komfor vožnje",
+    "key": "komfor",
     "features": [
-      {
-        "key": "інше_0",
-        "label": "4x4  Повний привід"
-      },
-      {
-        "key": "інше_1",
-        "label": "7 місць"
-      },
-      {
-        "key": "інше_2",
-        "label": "Buy Back"
-      },
-      {
-        "key": "інше_3",
-        "label": "Бартер"
-      },
-      {
-        "key": "інше_4",
-        "label": "Газова установка"
-      },
-      {
-        "key": "інше_5",
-        "label": "Подовжена база"
-      },
-      {
-        "key": "інше_6",
-        "label": "Зарезервований / Проданий"
-      },
-      {
-        "key": "інше_7",
-        "label": "Після ДТП"
-      },
-      {
-        "key": "інше_8",
-        "label": "Вкорочена база"
-      },
-      {
-        "key": "інше_9",
-        "label": "Лізинг"
-      },
-      {
-        "key": "інше_10",
-        "label": "Метанова установка"
-      },
-      {
-        "key": "інше_11",
-        "label": "На запчастини"
-      },
-      {
-        "key": "інше_12",
-        "label": "Повністю обслужений"
-      },
-      {
-        "key": "інше_13",
-        "label": "Новий імпорт"
-      },
-      {
-        "key": "інше_14",
-        "label": "Зареєстрований"
-      },
-      {
-        "key": "інше_15",
-        "label": "Сервісна книжка"
-      },
-      {
-        "key": "інше_16",
-        "label": "Тюнінг"
-      }
+      { "key": "power_steering", "label": "Servo upravljač" },
+      { "key": "multiwheel", "label": "Multifunkcionalni volan" },
+      { "key": "electric_seats", "label": "Električna podešavanja sedišta" },
+      { "key": "electric_windows", "label": "Električni podizači stakala" },
+      { "key": "electric_mirrors", "label": "Električna ogledala" },
+      { "key": "seat_adjustment", "label": "Podešavanje volana" }
     ]
   },
   {
-    "title": "Екстер'єр",
-    "key": "екстер'єр",
+    "title": "Multimedija i navigacija",
+    "key": "media",
     "features": [
-      {
-        "key": "екстер'єр_0",
-        "label": "2(3) дверей"
-      },
-      {
-        "key": "екстер'єр_1",
-        "label": "4(5) дверей"
-      },
-      {
-        "key": "екстер'єр_2",
-        "label": "LED фари"
-      },
-      {
-        "key": "екстер'єр_3",
-        "label": "Ксенонові фари"
-      },
-      {
-        "key": "екстер'єр_4",
-        "label": "Литі диски"
-      },
-      {
-        "key": "екстер'єр_5",
-        "label": "Металік"
-      },
-      {
-        "key": "екстер'єр_6",
-        "label": "Панорамний люк"
-      },
-      {
-        "key": "екстер'єр_7",
-        "label": "Рейлінги на даху"
-      },
-      {
-        "key": "екстер'єр_8",
-        "label": "Спойлери"
-      },
-      {
-        "key": "екстер'єр_9",
-        "label": "Фаркоп"
-      },
-      {
-        "key": "екстер'єр_10",
-        "label": "Протитуманні фари"
-      },
-      {
-        "key": "екстер'єр_11",
-        "label": "Люк"
-      }
+      { "key": "audio_system", "label": "Audio sistem / radio" },
+      { "key": "navigation", "label": "Navigacija" },
+      { "key": "bluetooth", "label": "Bluetooth / hands-free" },
+      { "key": "usb_aux", "label": "USB, AUX, ostali priključci" }
     ]
   },
   {
-    "title": "Захист",
-    "key": "захист",
+    "title": "Elektronika i pomoćni sistemi",
+    "key": "elektronika",
     "features": [
-      {
-        "key": "захист_0",
-        "label": "Пакет для бездоріжжя"
-      },
-      {
-        "key": "захист_1",
-        "label": "Сигналізація"
-      },
-      {
-        "key": "захист_2",
-        "label": "Броньований"
-      },
-      {
-        "key": "захист_3",
-        "label": "КАСКО"
-      },
-      {
-        "key": "захист_4",
-        "label": "Лебідка"
-      },
-      {
-        "key": "захист_5",
-        "label": "Центральний замок"
-      }
+      { "key": "cruise_control", "label": "Tempomat (cruise control)" },
+      { "key": "rain_sensor", "label": "Senzor za kišu" },
+      { "key": "light_sensor", "label": "Senzor za svetlo" },
+      { "key": "auto_start_stop", "label": "Auto Start-Stop funkcija" },
+      { "key": "keyless", "label": "Bezkjučni pristup" },
+      { "key": "adaptive_suspension", "label": "Adaptivno ogibljenje" },
+      { "key": "electronic_suspension", "label": "Elektronsko podešavanje ogibljenja" },
+      { "key": "headlight_washer", "label": "Prskalice za farove" }
     ]
   },
   {
-    "title": "Інтер'єр",
-    "key": "інтер'єр",
+    "title": "Eksterijer",
+    "key": "eksterijer",
     "features": [
-      {
-        "key": "інтер'єр_0",
-        "label": "Велюровий салон"
-      },
-      {
-        "key": "інтер'єр_1",
-        "label": "Праве кермо"
-      },
-      {
-        "key": "інтер'єр_2",
-        "label": "Шкіряний салон"
-      }
+      { "key": "panoramic_roof", "label": "Panoramski krov" },
+      { "key": "sunroof", "label": "Šiber (sunčev krov)" },
+      { "key": "towbar", "label": "Kuka za vuču (farkop)" },
+      { "key": "alloy_wheels", "label": "Aluminijumske felne" },
+      { "key": "led_lights", "label": "LED / ksenon svetla" },
+      { "key": "spoiler", "label": "Zadnji spojler" },
+      { "key": "daytime_running_lights", "label": "Dnevna svetla" },
+      { "key": "carter_protection", "label": "Zaštita kartera" }
     ]
   },
   {
-    "title": "Спеціалізовані",
-    "key": "спеціалізовані",
+    "title": "Tehničke / Off-road opcije",
+    "key": "tech_offroad",
     "features": [
-      {
-        "key": "спеціалізовані_0",
-        "label": "TAXI"
-      },
-      {
-        "key": "спеціалізовані_1",
-        "label": "Для людей з інвалідністю"
-      },
-      {
-        "key": "спеціалізовані_2",
-        "label": "Катафалк"
-      },
-      {
-        "key": "спеціалізовані_3",
-        "label": "Швидка допомога"
-      },
-      {
-        "key": "спеціалізовані_4",
-        "label": "Учбовий автомобіль"
-      },
-      {
-        "key": "спеціалізовані_5",
-        "label": "Холодильний фургон"
-      },
-      {
-        "key": "спеціалізовані_6",
-        "label": "Сертифікація N1 (вантажний легковик)"
-      }
+      { "key": "differential_lock", "label": "Blokada diferencijala" },
+      { "key": "low_high_gears", "label": "Niske/visoke brzine" }
+    ]
+  },
+  {
+    "title": "Specijalizovane",
+    "key": "specijalizovane",
+    "features": [
+      { "key": "for_disabled", "label": "Za osobe sa invaliditetom" }
     ]
   }
 ]
