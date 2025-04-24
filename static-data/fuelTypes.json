@@ -1,11 +1,10 @@
 [
-  { "key": "1", "value": "Benzin" },
-  { "key": "2", "value": "Dizel" },
-  { "key": "3", "value": "Električni" },
-  { "key": "4", "value": "Gas" },
-  { "key": "5", "value": "Gas propan-butan / benzin" },
-  { "key": "6", "value": "Gas metan / benzin" },
-  { "key": "7", "value": "Hibrid (HEV)" },
-  { "key": "8", "value": "Hibrid (PHEV)" },
-  { "key": "9", "value": "Hibrid (MHEV)" }
+  { "key": "1", "value": "Benzin" },                          
+  { "key": "2", "value": "Dizel" },                           
+  { "key": "3", "value": "Gas propan-butan / benzin" },       
+  { "key": "4", "value": "Gas metan / benzin" },              
+  { "key": "5", "value": "Hibrid (HEV)" },                   
+  { "key": "6", "value": "Hibrid (PHEV)" },                  
+  { "key": "7", "value": "Hibrid (MHEV)" },                  
+  { "key": "8", "value": "Električni" }                     
 ]

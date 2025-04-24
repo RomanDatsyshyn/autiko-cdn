@@ -3,5 +3,6 @@
   { "key": "2", "value": "Automatski" },
   { "key": "3", "value": "Tiptronic" },
   { "key": "4", "value": "Robotizovani" },
-  { "key": "5", "value": "CVT (varijabilni menjač)" }
+  { "key": "5", "value": "CVT (varijabilni menjač)" },
+  { "key": "6", "value": "DSG / DCT (menjač sa dva kvačila)" }
 ]

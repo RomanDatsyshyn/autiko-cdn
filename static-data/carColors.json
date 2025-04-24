@@ -1,0 +1,22 @@
+[
+  { "key": "white", "label": "Bijela", "hex": "#FFFFFF" },
+  { "key": "black", "label": "Crna", "hex": "#000000" },
+  { "key": "gray", "label": "Siva", "hex": "#808080" },
+  { "key": "silver", "label": "Srebrna", "hex": "#C0C0C0" },
+  { "key": "blue", "label": "Plava", "hex": "#1E90FF" },
+  { "key": "navy", "label": "Tamnoplava", "hex": "#001f3f" },
+  { "key": "red", "label": "Crvena", "hex": "#FF4136" },
+  { "key": "burgundy", "label": "Bordo", "hex": "#800020" },
+  { "key": "green", "label": "Zelena", "hex": "#2ECC40" },
+  { "key": "olive", "label": "Maslinasta", "hex": "#808000" },
+  { "key": "yellow", "label": "Žuta", "hex": "#FFDC00" },
+  { "key": "orange", "label": "Narandžasta", "hex": "#FF851B" },
+  { "key": "brown", "label": "Braon", "hex": "#8B4513" },
+  { "key": "beige", "label": "Bež", "hex": "#F5F5DC" },
+  { "key": "gold", "label": "Zlatna", "hex": "#FFD700" },
+  { "key": "purple", "label": "Ljubičasta", "hex": "#800080" },
+  { "key": "pink", "label": "Roze", "hex": "#FF69B4" },
+  { "key": "bronze", "label": "Bronzana", "hex": "#CD7F32" },
+  { "key": "turquoise", "label": "Tirkizna", "hex": "#30D5C8" },
+  { "key": "other", "label": "Druga boja", "hex": "#E0E0E0" }
+]
